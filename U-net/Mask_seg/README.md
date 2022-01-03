@@ -2,10 +2,8 @@
 # Dataset 
 https://www.kaggle.com/perke986/face-mask-segmentation-dataset/version/1
 
-#result
-![0003_input](https://user-images.githubusercontent.com/88640075/147914458-7349e44d-8db9-47ef-83c7-0976e6a865ee.png)
-![0003_label](https://user-images.githubusercontent.com/88640075/147914463-12ad97a9-8158-4971-8a97-83e5e24bc2e2.png)
-![0003_output](https://user-images.githubusercontent.com/88640075/147914464-50bc0602-d605-411d-aca6-a0cd373cb527.png)
+# result
+![0003_input](https://user-images.githubusercontent.com/88640075/147914458-7349e44d-8db9-47ef-83c7-0976e6a865ee.png) ![0003_label](https://user-images.githubusercontent.com/88640075/147914463-12ad97a9-8158-4971-8a97-83e5e24bc2e2.png)![0003_output](https://user-images.githubusercontent.com/88640075/147914464-50bc0602-d605-411d-aca6-a0cd373cb527.png)
 ![0019_input](https://user-images.githubusercontent.com/88640075/147914495-60da012c-563d-4040-85b9-ba7e6feb91f6.png)
 ![0019_label](https://user-images.githubusercontent.com/88640075/147914501-4746f0a2-8c9f-431d-9e5f-6009836a3af5.png)
 ![0019_output](https://user-images.githubusercontent.com/88640075/147914502-23b9ed28-cf0e-46a2-ba5f-dc50f685a90d.png)
